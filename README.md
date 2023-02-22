@@ -5,4 +5,4 @@ easy exercises ✔️
 
 intermediate exercises ✔️
 
-advanced exercises (on process)
+advanced exercises ✔️
